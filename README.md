@@ -1,6 +1,6 @@
 <div id="header" align="center">
   ### Hi there 👋
-  <img src="https://media.giphy.com/media/QLzImGMAHffcJ2Xl4I/giphy.gif" width=300 />
+  <img src="https://media.giphy.com/media/QLzImGMAHffcJ2Xl4I/giphy.gif"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/aneetageorge99/">
