@@ -16,7 +16,7 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+</div>
 
 ---
 
@@ -29,7 +29,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-aneeta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aneetageorge99/)
 - 😄 Pronouns: She/Hers
 - ⚡ Fun fact: I speak 3 languages fluently (and learning new ones!)
-</div>
 
 <!--
 **AneetaGeorge/AneetaGeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
